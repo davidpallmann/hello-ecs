@@ -2,7 +2,7 @@
 
 This is the code project for the [Hello, ECS & Fargate!](https://davidpallmann.hashnode.dev/hello-ecs-and-fargate) blog post. 
 
-This episode: Amazon Elastic Container Service & AWS Fargate. In this [Hello, Cloud](https://davidpallmann.hashnode.dev/hello-cloud) blog series, we're covering the basics of AWS cloud services for newcomers who are .NET developers. If you love C# but are new to AWS, or to this particular service, this should give you a jumpstart.
+This episode: Amazon Elastic Container Service & AWS Fargate. In this [Hello, Cloud](https://davidpallmann.hashnode.dev/series/hello-cloud) blog series, we're covering the basics of AWS cloud services for newcomers who are .NET developers. If you love C# but are new to AWS, or to this particular service, this should give you a jumpstart.
 
 In this post we'll introduce Amazon Elastic Container Service (ECS) and AWS Fargate and explain their differences. We'll use AWS Fargate to host a simple .NET "Hello, Cloud" web API on ECS in a Linux container. We'll do this step-by-step, making no assumptions other than familiarity with C# and Visual Studio. We're using Visual Studio 2022 and .NET 6.
 
